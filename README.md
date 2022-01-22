@@ -4,5 +4,5 @@
 </p>
 
 
-### stage1 > stage1_11
-### - (int)(Math.log10(A)+1) == 정수A의 길이
+##### stage1 > stage1_11
+##### - (int)(Math.log10(A)+1) == 정수A의 길이
