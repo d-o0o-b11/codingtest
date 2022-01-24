@@ -24,6 +24,7 @@
    2. StringTokenizer st; 
       st = new StringTokenizer(br.nextToken()); 
     - 띄어쓰기 기준으로 값을 입력받는다. ex) 11번 문제와 같이 st 여러 번 활용 가능
+    주의) 여러 번 값을 받아오는 것인지, 한 번 받아오는 것인지 생각하기!! <반복문에 넣는가?> 
   ```
 
     
