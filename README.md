@@ -18,7 +18,6 @@
   <h5> stage3 > stage3_11
     
   ```
-    
    1. BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     - 버퍼 사용 시 예외처리 : throws Exception
    2. StringTokenizer st; 
