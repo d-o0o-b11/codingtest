@@ -33,3 +33,11 @@
     1. StringBuilder명령어
   ```
     
+
+   <h5> stage5 > stage5_6
+     
+  ```
+    1. charAt : String타입으로 저장된 문자열을 한 글자만 선택해서 char타입으로 변환
+     ex) arr[i].charAt(j)=='O'
+  ```
+    
