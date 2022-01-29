@@ -41,3 +41,6 @@
      ex) arr[i].charAt(j)=='O'
   ```
     
+
+     <h5> stage6
+       - 문제 신중하게 
