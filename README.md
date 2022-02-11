@@ -67,7 +67,8 @@
       charAt 문자열은 -'a'해주면 0부터 시작하는 값 가질수있다.
   ```
      
-    <h5> stage7 > stage7_6
+     
+   <h5> stage7 > stage7_6
      
   ```
     1. st= new StringTokenizer(br.readLine()," ");
