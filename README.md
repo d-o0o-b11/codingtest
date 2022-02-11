@@ -44,3 +44,10 @@
 
    <h5> stage6
    - 문제 신중하게 
+     
+     
+   <h5> stage7 > stage7_1
+     
+  ```
+    1. BufferedReader는 String형태로 값을 받아오며 charAt으로 변환 후 int형으로 변환
+  ```
