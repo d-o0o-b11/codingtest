@@ -51,3 +51,25 @@
   ```
     1. BufferedReader는 String형태로 값을 받아오며 charAt으로 변환 후 int형으로 변환
   ```
+     
+   <h5> stage7 > stage7_2
+     
+  ```
+    1. br.readLine() - 한줄 통째로 입력받는 방법 <String>
+        br.read() - 값 읽어올때 int값으로 변형하여 읽어오는 방법
+        ex) 1을 read하면 int형이 아닌 ASCII향식의 문자값 49를 읽어오는 것
+  ```
+     
+   <h5> stage7 > stage7_3
+     
+  ```
+    1. length사용!!
+      charAt 문자열은 -'a'해주면 0부터 시작하는 값 가질수있다.
+  ```
+     
+    <h5> stage7 > stage7_6
+     
+  ```
+    1. st= new StringTokenizer(br.readLine()," ");
+        System.out.println(st.countTokens()); //공백의 개수를 구한다
+  ```
