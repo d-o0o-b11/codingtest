@@ -74,3 +74,9 @@
     1. st= new StringTokenizer(br.readLine()," ");
         System.out.println(st.countTokens()); //공백의 개수를 구한다
   ```
+     
+     <h5> stage9 > stage9_4
+       
+  ```
+       1. '에라토스테네스의 체' 지식 필요
+  ```
