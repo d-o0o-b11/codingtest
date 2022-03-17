@@ -87,6 +87,7 @@
      
      <h5> stage10 > stage10_4
        
+       
   ```
       1. '하노이 탐' 이동 규칙
       2. public static StringBuilder sb = new StringBuilder();
